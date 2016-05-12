@@ -2,4 +2,4 @@
 
 First Git repository 
 
-The file was changed three our ago 
+The file was changed three ours ago 
